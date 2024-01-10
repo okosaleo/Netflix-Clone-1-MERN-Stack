@@ -9,6 +9,9 @@ const Home = () => {
     <Navbar />
     <Featured props="movie"/>
     <List />
+    <List />
+    <List />
+    <List />
     </div>
   )
 }
